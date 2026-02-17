@@ -12,9 +12,11 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 <h2> Technical Projects </h2>
-- [6-Dof Prosthetic Hand - Ongoing](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Autonomous Floating Garden (AFG)](https://github.com/cynthiahsiao03-a11y/AutonomousFloatingGarden/tree/main)
-- [Automatic Line Following Robot](https://github.com/cynthiahsiao03-a11y/AutomaticLineFollowingRobot)
+
+- <a href="https://www.youtube.com/watch?v=N-L9hklSlNk">6-DoF Prosthetic Hand (Ongoing)</a>  
+- <a href="https://github.com/cynthiahsiao03-a11y/AutonomousFloatingGarden/tree/main">Autonomous Floating Garden (AFG)</a>  
+- <a href="https://github.com/cynthiahsiao03-a11y/AutomaticLineFollowingRobot">Automatic Line Following Robot</a>
+
 
 <h2> Connect with me:</h2>
 
