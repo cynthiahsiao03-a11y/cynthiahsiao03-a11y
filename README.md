@@ -3,7 +3,7 @@
 <h2>👨‍💻 Design Team and Clubs:</h2>
 
 - <b>UBC Submarine Design Team (SUBC) - Hull and Frame Team Member </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hull and Frame Connectors](https://github.com/cynthiahsiao03-a11y/SubC_Connectors/tree/main)
 - <b>UBC Concrete Tobbogan Design Team - Electronics Team Member </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>UBC Women in Engineering - Women in Science and Engineering (WiSE) Committe Co-Vice President </b>
