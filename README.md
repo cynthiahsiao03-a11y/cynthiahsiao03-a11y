@@ -6,10 +6,8 @@
   - [Hull and Frame Connectors](https://github.com/cynthiahsiao03-a11y/SubC_Connectors/tree/main)
 - <b>UBC Concrete Tobbogan Design Team - Electronics Team Member, January 2025 - Present </b>
 - <b>UBC Women in Engineering - Women in Science and Engineering (WiSE) Committe Co-Vice President </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - WiSE 2026 Mentorship Night - Upcoming (March 25, 2026)
+  - [WiSE 2025 Mentorship and Networking Night](https://github.com/cynthiahsiao03-a11y/WiSE2025/tree/main)
 
 <h2> Technical Projects </h2>
 
