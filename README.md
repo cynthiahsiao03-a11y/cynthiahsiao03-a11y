@@ -1,4 +1,4 @@
-<h1>Hi, I am Cynthia Hsiao <br/> UBC BASC in Integrated Engineering (Civil and Mechanical)
+<h1>Hi, I am Cynthia Hsiao <br/> UBC BASc in Integrated Engineering (Civil and Mechanical)
 
 <h2> Design Team and Clubs:</h2>
 
