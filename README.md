@@ -1,6 +1,6 @@
 <h1>Hi, I am Cynthia Hsiao <br/> UBC Integrated Engineering (Civil and Mechanical)
 
-<h2>👨‍💻 Design Team and Clubs:</h2>
+<h2> Design Team and Clubs:</h2>
 
 - <b>UBC Submarine Design Team (SUBC) - Hull and Frame Team Member, January 2026 - Present  </b>
   - [Hull and Frame Connectors](https://github.com/cynthiahsiao03-a11y/SubC_Connectors/tree/main)
@@ -11,7 +11,7 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
-<h2>📺 Technical Projects </h2>
+<h2> Technical Projects </h2>
 
 - [Automatic Line Following Robot](https://github.com/cynthiahsiao03-a11y/AutomaticLineFollowingRobot)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -19,7 +19,7 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="Cynthia Hsiao | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="Cynthia Hsiao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
