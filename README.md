@@ -4,6 +4,7 @@
 
 - <b>UBC Submarine Design Team (SUBC) - Hull and Frame Team Member </b>
   - [Hull and Frame Connectors](https://github.com/cynthiahsiao03-a11y/SubC_Connectors/tree/main)
+  - [Fiberglass Layups](https://github.com/cynthiahsiao03-a11y/Layups)
 - <b>UBC Concrete Tobbogan Design Team - Electronics Team Member </b>
 - <b>UBC Women in Engineering - Women in Science and Engineering (WiSE) Committe Co-Vice President </b>
   - WiSE 2026 Mentorship Night - Upcoming (March 25, 2026)
