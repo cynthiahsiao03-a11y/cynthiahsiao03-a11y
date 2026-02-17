@@ -2,9 +2,9 @@
 
 <h2> Design Team and Clubs:</h2>
 
-- <b>UBC Submarine Design Team (SUBC) - Hull and Frame Team Member, January 2026 - Present  </b>
+- <b>UBC Submarine Design Team (SUBC) - Hull and Frame Team Member </b>
   - [Hull and Frame Connectors](https://github.com/cynthiahsiao03-a11y/SubC_Connectors/tree/main)
-- <b>UBC Concrete Tobbogan Design Team - Electronics Team Member, January 2025 - Present </b>
+- <b>UBC Concrete Tobbogan Design Team - Electronics Team Member <</b>
 - <b>UBC Women in Engineering - Women in Science and Engineering (WiSE) Committe Co-Vice President </b>
   - WiSE 2026 Mentorship Night - Upcoming (March 25, 2026)
   - [WiSE 2025 Mentorship and Networking Night](https://github.com/cynthiahsiao03-a11y/WiSE2025/tree/main)
