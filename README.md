@@ -1,4 +1,4 @@
-<h1>Hi, I am Cynthia Hsiao <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="www.linkedin.com/in/cynthiahsiao033005">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I am Cynthia Hsiao <br/> UBC Integrated Engineering (Civil and Mechanical)
 
 <h2>👨‍💻 Design Team and Clubs:</h2>
 
