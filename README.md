@@ -12,7 +12,7 @@
 
 <h2> Technical Projects </h2>
 
-- <a href="https://github.com/cynthiahsiao03-a11y/6DoF-ProstheticHand">6-DoF Prosthetic Hand (Ongoing)</a>  
+- <a href="https://github.com/cynthiahsiao03-a11y/6DoF-ProstheticHand">6-DoF Prosthetic Hand </a>  
 - <a href="https://github.com/cynthiahsiao03-a11y/AutonomousFloatingGarden/tree/main">Autonomous Floating Garden (AFG)</a>  
 - <a href="https://github.com/cynthiahsiao03-a11y/AutomaticLineFollowingRobot">Automatic Line Following Robot</a>
 
