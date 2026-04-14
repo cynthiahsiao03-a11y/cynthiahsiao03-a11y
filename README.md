@@ -7,7 +7,7 @@
   - [Fiberglass Layups](https://github.com/cynthiahsiao03-a11y/Layups)
 - <b>UBC Concrete Tobbogan Design Team - Electronics Team Member </b>
 - <b>UBC Women in Engineering - Women in Science and Engineering (WiSE) Committe Co-Vice President </b>
-  - WiSE 2026 Mentorship Night - Upcoming (March 25, 2026)
+  - [WiSE 2026 Mentorship Night](https://github.com/cynthiahsiao03-a11y/WiSE2026/blob/5f72c637586ed500661861a0a90e1b7ff64a89f1/README.md)
   - [WiSE 2025 Mentorship and Networking Night](https://github.com/cynthiahsiao03-a11y/WiSE2025/tree/main)
 
 <h2> Technical Projects </h2>
